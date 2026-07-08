@@ -1,16 +1,48 @@
-# finance
+# Finance Tracker App
 
-A new Flutter project.
+A modern Flutter application for managing personal finances, designed to help users track their income and expenses through an intuitive and organized interface.
 
-## Getting Started
+Finance Tracker provides a complete financial management experience with secure authentication, transaction management, data visualization, and personalized settings.
 
-This project is a starting point for a Flutter application.
+## Overview
 
-A few resources to get you started if this is your first Flutter project:
+The application allows users to:
+- Create an account and securely log in.
+- Add, edit, and manage financial transactions.
+- View detailed transaction information.
+- Monitor spending through interactive charts and analytics.
+- Organize expenses by categories.
+- Manage profile and application settings.
+- Backup and restore application data.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔐 Firebase Authentication for user registration and login.
+- 💰 Add, edit, and view transactions.
+- 📊 Interactive financial charts and analytics.
+- 📈 Expense visualization using Pie Chart and FL Chart.
+- 🗂️ Transaction categories management.
+- 👤 Profile and settings management.
+- 💾 Local data storage using Hive.
+- 🎨 Custom application theme.
+- 🔄 Backup and restore functionality.
+
+## Technologies
+
+- Flutter & Dart
+- Flutter Bloc (Cubit) for state management
+- Firebase Authentication
+- Hive Database
+- FL Chart
+- Pie Chart
+- Font Awesome Icons
+
+## Project Structure
+
+The project follows an organized Flutter architecture:
+
+- Cubit → State management and business logic.
+- Models → Application data models.
+- Views → Application screens.
+- Widgets → Reusable UI components.
+- Helpers → Utility functions and shared resources.
