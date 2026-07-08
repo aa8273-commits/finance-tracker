@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "486377492368",
+    "project_id": "watchify-a9d41",
+    "storage_bucket": "watchify-a9d41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486377492368:android:b4158a70c1ddb542b26d15",
+        "android_client_info": {
+          "package_name": "com.example.finance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHottMkrvSb1pDZWwA9l01-HvqZq3d-fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486377492368:android:0b89b21f47220cd7b26d15",
+        "android_client_info": {
+          "package_name": "com.example.watchify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHottMkrvSb1pDZWwA9l01-HvqZq3d-fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
