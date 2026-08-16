@@ -16,10 +16,7 @@
 
 ## 🎥 Demo
 
-<p align="center">
-  <video src="Recording_2026-08-15_155306_1.5x.mp4" width="300" controls>
-  </video>
-</p>
+https://github.com/user-attachments/assets/3cd45dbb-4d7d-4a40-84c2-8eada508031c
 
 > A quick demonstration of the Finance Tracker application and its main features.
 
@@ -166,3 +163,35 @@ lib/
 │
 └── helpers/
     └── Utility functions & shared resources
+```
+
+---
+
+## 🔗 Project Links
+
+<p align="center">
+  <a href="https://github.com/aa8273-commits/finance-tracker">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repository-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/abdulrahman-ahmed-ibrahim-400151360">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdulrahman%20Ahmed-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Developer
+
+**Abdulrahman Ahmed Ibrahim**
+
+Flutter Developer
+
+- 🔗 GitHub: https://github.com/aa8273-commits
+- 💼 LinkedIn: https://www.linkedin.com/in/abdulrahman-ahmed-ibrahim-400151360
+
+---
+
+<p align="center">
+  Made with ❤️ using Flutter
+</p>
