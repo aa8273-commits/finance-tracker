@@ -14,13 +14,15 @@
 
 ---
 
-## 🎥 Demo
+## 🎥 App Demo
 
-https://github.com/user-attachments/assets/3cd45dbb-4d7d-4a40-84c2-8eada508031c
+<p align="center">
 
-> A quick demonstration of the Finance Tracker application and its main features.
+<a href="https://github.com/user-attachments/assets/3cd45dbb-4d7d-4a40-84c2-8eada508031c">
+  ▶️ <strong>Watch ARChat Demo</strong>
+</a>
 
----
+</p>
 
 ## 📱 Screenshots
 
